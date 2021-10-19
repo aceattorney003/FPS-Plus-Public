@@ -18,7 +18,7 @@ Adjusts how the game handles input allowing you to hit notes more consistently.
 This also changes held notes so that they disappear if released to early.
 
 ### Fully Rebindable Keys
-So that you can use whatever wacky control scheme you come up with. Or you could just be boring and use DFJK. That works too...
+r wacky control scheme you come up with. Or you could just be boring and use DFJK. That works too...
 
 ### Improved Chart Editor
 FPS Plus contains a modified chart editor that has more utility features and is way more user friendly.
@@ -51,4 +51,3 @@ Adjusted some of the health icons and adds winning icons.
 ### Shoutouts
 - [KadeDev](https://twitter.com/KadeDeveloper) - *Rival*
 - [PolybiusProxy](https://twitter.com/polybiusproxy) - Haxeflixel Desktop MP4 stuff.
-- [Ethab Taxi](https://twitter.com/EthabTaxi) - He's just sorta chillin'.
